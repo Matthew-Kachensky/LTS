@@ -1,0 +1,7 @@
+Death's Dance,heroIsNoxus
+Zz'Rot Portal,heroIsVoid
+Banner of Command,heroIsDemacia
+Frozen Heart,heroIsFrelijord
+Guinsoo's Rageblade,heroIsIonia
+Shrink Ray,heroIsBandle
+Doran's Ring,heroRollBuff

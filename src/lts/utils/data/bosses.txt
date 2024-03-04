@@ -1,0 +1,3 @@
+Baron,+1all,8,7,4,none
+Infernal Dragon,noDestroy,8,4,2,Demacia
+Elder Dragon,DrawOne,8,4,2,Bandle

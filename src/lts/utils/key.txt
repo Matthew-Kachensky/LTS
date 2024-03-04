@@ -1,0 +1,43 @@
+Key of our card names to card names in the actual game (for our own use):
+
+CHAMPION/REGION KEY:
+Kaisa/Void - Thief
+Ahri/Ionia - Wizard
+Darius/Noxus - Fighter
+JarvanIV/Demacia - Guardian
+Ashe/Frelijord - Ranger
+Teemo/Bandle - Bard
+
+HERO KEY:
+Kassadin - Shurikitty
+Yone - Hopper
+Katarina - Pan Chucks
+Lux - Vibrant Glow
+Sejuani - Wildshot
+Lulu - Tipsy Tootie
+Cho'Gath -
+Irelia -
+Swain -
+Galio - Mighty Blade
+Tryndamere -
+Ziggs -
+
+
+BOSS KEY:
+Baron - Mega Slime
+Infernal Dragon - Rex Major
+Elder Dragon - Dark Dragon King
+
+ITEM KEY:
+Doran's Ring - Really Big Ring
+Death's Dance - Fighter Mask
+Zz'Rot Portal - Thief Mask
+Banner of Command - Guardian Mask
+Frozen Heart - Ranger Mask
+Rabadon's Deathcap - Wizard Mask
+Shrink Ray - Bard Mask
+
+SPELL KEY:
+Revive - Call to the Fallen
+Unsealed Spellbook - Critical Boost
+Rocket Grab - Forced Exchange

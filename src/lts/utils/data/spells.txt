@@ -1,0 +1,4 @@
+Revive,searchDiscardHero
+Unsealed Spellbook,drawThreeDiscardOne
+Rocket Grab,heroSwitch
+Phosphorus Bomb,discardDestroy

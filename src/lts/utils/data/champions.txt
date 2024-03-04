@@ -1,0 +1,6 @@
+Kaisa,Void,drawSteal
+Ahri,Ionia,spellDraw
+JarvanIV,Demacia,modifierChange
+Darius,Noxus,challengeBuff
+Teemo,Bandle,heroBuff
+Ashe,Frelijord,bossBuff

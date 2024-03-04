@@ -1,0 +1,13 @@
+Kassadin,Void,destroyHeroTakeItem,9
+Yone,Ionia,choosePlayerSacrifice,7
+Katarina,Noxus,drawTwoChallengeDestroy,8
+Lux,Demacia,turnRollBuff,9
+Sejuani,Frelijord,drawThreeDiscardOne,8
+Lulu,Bandle,heroSwitch,6
+Galio,Demacia,partyProtection,5
+Tryndamere,Frelijord,destroyDraw,9
+Sion,Noxus,badaxe,8
+Poppy,Demacia,vibrantglow,9
+Karma,Ionia,bunbun,5
+Kha'zix,Void,silentshadow,8
+Tristana,Bandle,mellowdee,7

@@ -1,0 +1,33 @@
+Kaisa: Once per turn on your turn, you may spend an active point to pull a card from another player's hand
+Ahri: Each time you play a spell card, draw a card.
+Darius: Each time you roll to challenge, +2 to your roll
+JarvanIV: Each time you play a modifier card on a roll, +1 or -1 to that roll.
+Ashe: Each time you roll to attack a boss card, +1 to your roll.
+Teemo: Each time you roll to use a Hero card's effect, +1 to your roll.
+Kassadin: DESTROY a Hero card. If that Hero card had an item card equipped to it, add that item card to your hand instead of moving it to the discard pile.
+Yone: Choose a player. That player must SACRIFICE a Hero card.
+Katarina: DRAW 2 cards. If at least one of those cards is a Challenge card, you may reveal it, then DESTROY a Hero card.
+Lux: +5 to all your rolls until the end of your turn.
+Sejuani: DRAW 3 cards and DISCARD a card.
+Lulu: Choose a player. STEAL a Hero from that player and move this card to their Party.
+Galio: Hero cards in your Party cannot be destroyed until the end of your next turn.
+Baron: You may spend an extra action point on each of your turns.
+Infernal Dragon: Each time you DRAW a Modifier card, you may reveal it and DRAW a second card.
+Elder Dragon: Each time you roll for a Hero card's effect, +1 to your roll.
+Doran's Ring: Each time you roll to use the equipped Hero card's effect, +2 to your roll.
+Death's Dance: The equipped Hero card is considered a Noxian instead of its original class.
+Zz'Rot Portal: The equipped Hero card is considered a Void instead of its original class.
+Banner of Command: The equipped Hero card is considered a Demacian instead of its original class.
+Frozen Heart: The equipped Hero card is considered a Frelijord instead of its original class.
+Guinsoo's Rageblade: The equipped Hero card is considered an Ionian instead of its original class.
+Shrink Ray: The equipped Hero card is considered a Bandolier (Yordle) of its original class.
+Revive: Search the discard pile for a Hero card and add it to your hand.
+Unsealed Spellbook: DRAW 3 cards and DISCARD a card.
+Rocket Grab: Choose a player. STEAL a Hero card from that player's Party, then move a Hero card from your Party to that player's Party.
+Tryndamere: Destroy a hero and draw a card.
+Sion: DESTROY a hero card.
+Poppy: +5 to ALL of your ROLLS until the end of your turn.
+Karma: Seach the discard pile for a magic card.
+Kha'zix: Choose a player, look at their hand and STEAL a card.
+Tristana: DRAW a card, if the card is a HERO then play immediately.
+Phosphorus Bomb: DISCARD a card, then DESTROY a hero
